@@ -72,13 +72,6 @@
 
 <a href="https://dropandgo.netlify.app/"><strong>Check out the website »</strong></a>
 
-- [ ] Home Page
-- [ ] Search Locations
-- [ ] Book Location
-- [ ] View Bookings
-- [ ] Update Bookings
-- [ ] Too lazy to add properly
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
