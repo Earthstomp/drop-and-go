@@ -66,11 +66,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ROADMAP -->
-
-## Roadmap
-
-<a href="https://dropandgo.netlify.app/"><strong>Check out the website »</strong></a>
+<a href="https://is3106-dropandgo.netlify.app/"><strong>Check out the website »</strong></a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
